@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo. Have a good search!",
+      "items": [],
+      "title": "Startup List"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:30.277Z",
+    "original_repository": "RunaCapital/awesome-oss-alternatives",
+    "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",
+    "enhanced_repository": "enhansome/enhansome-oss-alternatives",
+    "enhanced_repository_description": null,
+    "title": "Awesome open-source alternatives to SaaS with stars"
+  }
+}

@@ -1,7 +1,134 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "All startups in the list are sorted by categories and sorted in alphabetical order. If you click on the stars badge you will get to the product's repo. Have a good search!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache APISIX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180481986,
+            "language": "Lua",
+            "last_commit": "2026-08-24T08:34:19Z",
+            "owner": "apache",
+            "repo": "apisix",
+            "stars": 17024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fusio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39904377,
+            "language": "PHP",
+            "last_commit": "2026-08-16T07:45:04Z",
+            "owner": "apioo",
+            "repo": "fusio",
+            "stars": 2113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepfence ThreatMapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238662977,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T08:38:26Z",
+            "owner": "deepfence",
+            "repo": "ThreatMapper",
+            "stars": 5318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enterprise Search",
+          "description": "Manticore Search Easy to use open source fast database for search <a href=https://github.com/manticoresoftware/manticoresearch/> Elastic Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95614931,
+            "language": "C++",
+            "last_commit": "2026-08-24T10:52:49Z",
+            "owner": "manticoresoftware",
+            "repo": "manticoresearch",
+            "stars": 11954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeMI",
+          "description": "'s Weaviate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55072677,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:24:14Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zinc Labs",
+          "description": "'s Zinc",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 434218673,
+            "language": "Go",
+            "last_commit": "2026-06-09T05:30:16Z",
+            "owner": "zincsearch",
+            "repo": "zincsearch",
+            "stars": 17890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBB Terminal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323048702,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:33:42Z",
+            "owner": "OpenBB-finance",
+            "repo": "OpenBB",
+            "stars": 72233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timeseries database",
+          "description": "CrateDB Distributed SQL database for real-time analytics of time series data Kdb+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9342529,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:49:10Z",
+            "owner": "crate",
+            "repo": "crate",
+            "stars": 4425
+          }
+        }
+      ],
+      "title": "Startup List"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:01:20.049Z",
+    "last_updated": "2026-08-24T13:49:24.469Z",
     "original_repository": "RunaCapital/awesome-oss-alternatives",
     "original_repository_id": 428202741,
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",

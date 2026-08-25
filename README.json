@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:34:19Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17024
+            "stars": 17025
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T10:52:49Z",
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 11954
+            "stars": 11955
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-24T13:24:14Z",
+            "last_commit": "2026-08-24T18:45:25Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16749
+            "stars": 16750
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-09T05:30:16Z",
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17890
+            "stars": 17889
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72233
+            "stars": 72245
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-24T13:49:10Z",
+            "last_commit": "2026-08-24T20:29:17Z",
             "owner": "crate",
             "repo": "crate",
-            "stars": 4425
+            "stars": 4426
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:49:24.469Z",
+    "last_updated": "2026-08-25T01:56:21.195Z",
     "original_repository": "RunaCapital/awesome-oss-alternatives",
     "original_repository_id": 428202741,
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",

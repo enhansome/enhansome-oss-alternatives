@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:34:19Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17025
+            "stars": 17028
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-24T18:45:25Z",
+            "last_commit": "2026-08-25T04:50:54Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16750
@@ -105,13 +105,13 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72245
+            "stars": 72252
           }
         },
         {
           "node_type": "item",
           "title": "Timeseries database",
-          "description": "CrateDB Distributed SQL database for real-time analytics of time series data Kdb+",
+          "description": "CrateDB Distributed SQL database for real-time analytics of time series data  Kdb+",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:56:21.195Z",
+    "last_updated": "2026-08-25T05:43:50.740Z",
     "original_repository": "RunaCapital/awesome-oss-alternatives",
     "original_repository_id": 428202741,
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",

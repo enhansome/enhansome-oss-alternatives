@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:34:19Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17028
+            "stars": 17030
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T07:45:04Z",
             "owner": "apioo",
             "repo": "fusio",
-            "stars": 2113
+            "stars": 2114
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 95614931,
             "language": "C++",
-            "last_commit": "2026-08-24T10:52:49Z",
+            "last_commit": "2026-08-25T13:04:28Z",
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 11955
+            "stars": 11956
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-25T04:50:54Z",
+            "last_commit": "2026-08-25T20:06:54Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16750
+            "stars": 16754
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72252
+            "stars": 72283
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-24T20:29:17Z",
+            "last_commit": "2026-08-25T18:09:06Z",
             "owner": "crate",
             "repo": "crate",
-            "stars": 4426
+            "stars": 4427
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:43:50.740Z",
+    "last_updated": "2026-08-26T02:02:47.167Z",
     "original_repository": "RunaCapital/awesome-oss-alternatives",
     "original_repository_id": 428202741,
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",

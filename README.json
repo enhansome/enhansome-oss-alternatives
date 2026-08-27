@@ -12,10 +12,10 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-24T08:34:19Z",
+            "last_commit": "2026-08-27T09:18:58Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17030
+            "stars": 17041
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 95614931,
             "language": "C++",
-            "last_commit": "2026-08-25T13:04:28Z",
+            "last_commit": "2026-08-27T09:56:41Z",
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
             "stars": 11956
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-25T20:06:54Z",
+            "last_commit": "2026-08-27T09:56:48Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16754
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-09T05:30:16Z",
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17889
+            "stars": 17888
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72283
+            "stars": 72358
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-25T18:09:06Z",
+            "last_commit": "2026-08-27T09:22:34Z",
             "owner": "crate",
             "repo": "crate",
             "stars": 4427
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:02:47.167Z",
+    "last_updated": "2026-08-27T09:59:49.536Z",
     "original_repository": "RunaCapital/awesome-oss-alternatives",
     "original_repository_id": 428202741,
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",

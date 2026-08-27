@@ -12,7 +12,7 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-27T09:18:58Z",
+            "last_commit": "2026-08-27T10:26:55Z",
             "owner": "apache",
             "repo": "apisix",
             "stars": 17041
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T07:45:04Z",
             "owner": "apioo",
             "repo": "fusio",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 95614931,
             "language": "C++",
-            "last_commit": "2026-08-27T09:56:41Z",
+            "last_commit": "2026-08-27T11:32:44Z",
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
             "stars": 11956
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-27T09:56:48Z",
+            "last_commit": "2026-08-27T11:42:39Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16754
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72358
+            "stars": 72361
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-27T09:22:34Z",
             "owner": "crate",
             "repo": "crate",
-            "stars": 4427
+            "stars": 4428
           }
         }
       ],
@@ -128,9 +128,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:59:49.536Z",
-    "original_repository": "RunaCapital/awesome-oss-alternatives",
-    "original_repository_id": 428202741,
+    "last_updated": "2026-08-27T11:55:02.578Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 428202741,
+      "language": "Python",
+      "last_commit": "2025-09-03T17:43:01Z",
+      "owner": "RunaCapital",
+      "repo": "awesome-oss-alternatives",
+      "stars": 19569
+    },
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",
     "enhanced_repository": "enhansome/enhansome-oss-alternatives",
     "enhanced_repository_description": null,

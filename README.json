@@ -12,11 +12,12 @@
             "archived": false,
             "id": 180481986,
             "language": "Lua",
-            "last_commit": "2026-08-27T10:26:55Z",
+            "last_commit": "2026-08-28T00:50:46Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17041
-          }
+            "stars": 17045
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "apioo",
             "repo": "fusio",
             "stars": 2115
-          }
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "deepfence",
             "repo": "ThreatMapper",
             "stars": 5318
-          }
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 95614931,
             "language": "C++",
-            "last_commit": "2026-08-27T11:32:44Z",
+            "last_commit": "2026-08-28T11:19:02Z",
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 11956
-          }
+            "stars": 11963
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-27T11:42:39Z",
+            "last_commit": "2026-08-28T11:21:16Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16754
-          }
+            "stars": 16758
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-06-09T05:30:16Z",
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17888
-          }
+            "stars": 17887
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72361
-          }
+            "stars": 72393
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         },
         {
           "node_type": "item",
@@ -117,18 +124,19 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-27T09:22:34Z",
+            "last_commit": "2026-08-28T07:50:32Z",
             "owner": "crate",
             "repo": "crate",
-            "stars": 4428
-          }
+            "stars": 4429
+          },
+          "first_seen": "2026-08-28T11:31:49.397Z"
         }
       ],
       "title": "Startup List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:02.578Z",
+    "last_updated": "2026-08-28T11:31:49.397Z",
     "original_repository_info": {
       "archived": false,
       "id": 428202741,
@@ -136,7 +144,7 @@
       "last_commit": "2025-09-03T17:43:01Z",
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19569
+      "stars": 19578
     },
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",
     "enhanced_repository": "enhansome/enhansome-oss-alternatives",

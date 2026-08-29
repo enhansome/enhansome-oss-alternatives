@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud-Native API Gateway and AI Gateway",
+            "homepage": "https://apisix.apache.org/blog/",
             "id": 180481986,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:50:46Z",
+            "open_issues": 248,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17045
+            "stars": 17048,
+            "topics": [
+              "ai-gateway",
+              "api",
+              "api-gateway",
+              "api-management",
+              "apisix",
+              "cloud-native",
+              "devops",
+              "iot",
+              "kubernetes",
+              "kubernetes-ingress",
+              "loadbalancing",
+              "luajit",
+              "microservices",
+              "nginx",
+              "openapi",
+              "openapi3",
+              "openapi31",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -26,12 +51,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Hosted API Management for Builders",
+            "homepage": "https://www.fusio-project.org",
             "id": 39904377,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:45:04Z",
+            "open_issues": 170,
             "owner": "apioo",
             "repo": "fusio",
-            "stars": 2115
+            "stars": 2115,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "api",
+              "api-gateway",
+              "api-management",
+              "api-manager",
+              "backend",
+              "javascript",
+              "mcp-server",
+              "microservice",
+              "openapi",
+              "php",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -42,12 +86,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+            "homepage": "https://threatmapper.org",
             "id": 238662977,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T08:38:26Z",
+            "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5318
+            "stars": 5318,
+            "topics": [
+              "cloud-native",
+              "cloudsecurity",
+              "cnapp",
+              "compliance",
+              "containers",
+              "cspm",
+              "cwpp",
+              "devops",
+              "devsecops",
+              "kubernetes",
+              "observability",
+              "registry-scanning",
+              "scanning-tool",
+              "secops",
+              "security-tools",
+              "threat-analysis",
+              "vulnerability-detection",
+              "vulnerability-management",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -58,12 +127,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+            "homepage": "https://manticoresearch.com",
             "id": 95614931,
             "language": "C++",
-            "last_commit": "2026-08-28T11:19:02Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T23:14:31Z",
+            "open_issues": 681,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 11963
+            "stars": 11964,
+            "topics": [
+              "api",
+              "bm25",
+              "cpp",
+              "database",
+              "full-text-search",
+              "hacktoberfest",
+              "json",
+              "mysql",
+              "search",
+              "search-api",
+              "search-engine",
+              "search-server",
+              "sphinxsearch",
+              "sql",
+              "stream-filtering"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -74,12 +164,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+            "homepage": "https://weaviate.io/developers/weaviate/",
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-28T11:21:16Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T00:19:38Z",
+            "open_issues": 691,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16758
+            "stars": 16759,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "generative-search",
+              "grpc",
+              "hnsw",
+              "hybrid-search",
+              "image-search",
+              "information-retrieval",
+              "mlops",
+              "nearest-neighbor-search",
+              "neural-search",
+              "recommender-system",
+              "search-engine",
+              "semantic-search",
+              "semantic-search-engine",
+              "similarity-search",
+              "vector-database",
+              "vector-search",
+              "vector-search-engine",
+              "vectors",
+              "weaviate"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -90,12 +206,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+            "homepage": "https://zincsearch-docs.zinc.dev",
             "id": 434218673,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-09T05:30:16Z",
+            "open_issues": 48,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17887
+            "stars": 17886,
+            "topics": [
+              "elasticsearch",
+              "go",
+              "golang",
+              "modern",
+              "opensearch",
+              "search",
+              "searchengine",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -106,12 +236,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Data Platform for analysts, quants and AI agents.",
+            "homepage": "https://openbb.co",
             "id": 323048702,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T17:33:42Z",
+            "open_issues": 107,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72393
+            "stars": 72414,
+            "topics": [
+              "ai",
+              "crypto",
+              "derivatives",
+              "economics",
+              "equity",
+              "finance",
+              "fixed-income",
+              "machine-learning",
+              "openbb",
+              "options",
+              "python",
+              "quantitative-finance",
+              "stocks"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         },
@@ -122,12 +271,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+            "homepage": "https://cratedb.com/database",
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-28T07:50:32Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:18:40Z",
+            "open_issues": 320,
             "owner": "crate",
             "repo": "crate",
-            "stars": 4429
+            "stars": 4429,
+            "topics": [
+              "analytics",
+              "big-data",
+              "cratedb",
+              "database",
+              "dbms",
+              "distributed",
+              "distributed-database",
+              "distributed-sql-database",
+              "elasticsearch",
+              "industrial-iot",
+              "iot",
+              "iot-analytics",
+              "iot-database",
+              "lucene",
+              "olap",
+              "postgresql",
+              "sql",
+              "time-series",
+              "tsdb",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T11:31:49.397Z"
         }
@@ -136,15 +311,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:49.397Z",
+    "last_updated": "2026-08-29T04:12:22.153Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+      "homepage": "https://runacap.com",
       "id": 428202741,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2025-09-03T17:43:01Z",
+      "open_issues": 145,
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19578
+      "stars": 19581,
+      "topics": [
+        "alternatives",
+        "awesome",
+        "awesome-list",
+        "list",
+        "open-source",
+        "python",
+        "resources",
+        "saas",
+        "startups",
+        "unicorns"
+      ]
     },
     "original_repository_sha": "e5a1bd6153c602404c6f25a97b178228b755aebb",
     "enhanced_repository": "enhansome/enhansome-oss-alternatives",

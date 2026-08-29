@@ -169,8 +169,8 @@
             "id": 55072677,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T00:19:38Z",
-            "open_issues": 691,
+            "last_commit": "2026-08-29T06:40:39Z",
+            "open_issues": 692,
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16759,
@@ -245,7 +245,7 @@
             "open_issues": 107,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72414,
+            "stars": 72421,
             "topics": [
               "ai",
               "crypto",
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:22.153Z",
+    "last_updated": "2026-08-29T07:11:19.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",

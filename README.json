@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T01:05:22Z",
-            "open_issues": 242,
+            "open_issues": 245,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17093,
+            "stars": 17098,
             "topics": [
               "ai-gateway",
               "api",
@@ -95,7 +95,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5322,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -132,11 +132,11 @@
             "id": 95614931,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T04:46:15Z",
-            "open_issues": 657,
+            "last_commit": "2026-09-08T17:15:50Z",
+            "open_issues": 656,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 11993,
+            "stars": 11996,
             "topics": [
               "api",
               "bm25",
@@ -169,11 +169,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T21:27:27Z",
-            "open_issues": 726,
+            "last_commit": "2026-09-08T22:08:23Z",
+            "open_issues": 727,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16793,
+            "stars": 16794,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -205,7 +205,7 @@
           "description": "'s Zinc",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
             "homepage": "https://zincsearch-docs.zinc.dev",
             "id": 434218673,
@@ -245,7 +245,7 @@
             "open_issues": 117,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72767,
+            "stars": 72811,
             "topics": [
               "ai",
               "crypto",
@@ -276,11 +276,11 @@
             "id": 9342529,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T17:41:54Z",
-            "open_issues": 330,
+            "last_commit": "2026-09-09T00:17:07Z",
+            "open_issues": 331,
             "owner": "crate",
             "repo": "crate",
-            "stars": 4433,
+            "stars": 4434,
             "topics": [
               "analytics",
               "big-data",
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:50:40.699Z",
+    "last_updated": "2026-09-09T04:53:31.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",

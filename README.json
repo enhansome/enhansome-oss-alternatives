@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T10:16:11Z",
-            "open_issues": 243,
+            "open_issues": 238,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17143,
+            "stars": 17147,
             "topics": [
               "ai-gateway",
               "api",
@@ -95,7 +95,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5323,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -132,11 +132,11 @@
             "id": 95614931,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T23:35:59Z",
-            "open_issues": 653,
+            "last_commit": "2026-09-19T17:15:32Z",
+            "open_issues": 654,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 12018,
+            "stars": 12020,
             "topics": [
               "api",
               "bm25",
@@ -169,11 +169,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:43:59Z",
-            "open_issues": 739,
+            "last_commit": "2026-09-19T17:57:14Z",
+            "open_issues": 742,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16823,
+            "stars": 16826,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -215,7 +215,7 @@
             "open_issues": 44,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17881,
+            "stars": 17879,
             "topics": [
               "elasticsearch",
               "go",
@@ -241,11 +241,11 @@
             "id": 323048702,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T02:37:32Z",
-            "open_issues": 113,
+            "last_commit": "2026-09-19T21:44:06Z",
+            "open_issues": 114,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 73219,
+            "stars": 73271,
             "topics": [
               "ai",
               "crypto",
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:45:31.548Z",
+    "last_updated": "2026-09-20T05:02:08.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
@@ -323,7 +323,7 @@
       "open_issues": 145,
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19671,
+      "stars": 19677,
       "topics": [
         "alternatives",
         "awesome",

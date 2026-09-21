@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T10:16:11Z",
-            "open_issues": 238,
+            "open_issues": 236,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17147,
+            "stars": 17149,
             "topics": [
               "ai-gateway",
               "api",
@@ -132,11 +132,11 @@
             "id": 95614931,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T17:15:32Z",
-            "open_issues": 654,
+            "last_commit": "2026-09-21T04:48:10Z",
+            "open_issues": 657,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 12020,
+            "stars": 12022,
             "topics": [
               "api",
               "bm25",
@@ -169,11 +169,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T17:57:14Z",
+            "last_commit": "2026-09-20T20:53:45Z",
             "open_issues": 742,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16826,
+            "stars": 16830,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -215,7 +215,7 @@
             "open_issues": 44,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17879,
+            "stars": 17881,
             "topics": [
               "elasticsearch",
               "go",
@@ -245,7 +245,7 @@
             "open_issues": 114,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 73271,
+            "stars": 73321,
             "topics": [
               "ai",
               "crypto",
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:02:08.188Z",
+    "last_updated": "2026-09-21T05:08:10.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
@@ -323,7 +323,7 @@
       "open_issues": 145,
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19677,
+      "stars": 19682,
       "topics": [
         "alternatives",
         "awesome",

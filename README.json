@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Apache APISIX",
-          "description": null,
+          "description": "apache/apisix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,7 +16,7 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T08:15:37Z",
-            "open_issues": 250,
+            "open_issues": 254,
             "owner": "apache",
             "repo": "apisix",
             "stars": 17187,
@@ -47,7 +47,7 @@
         {
           "node_type": "item",
           "title": "Fusio",
-          "description": null,
+          "description": "apioo/fusio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +56,7 @@
             "id": 39904377,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T21:32:25Z",
+            "last_commit": "2026-10-02T20:15:10Z",
             "open_issues": 170,
             "owner": "apioo",
             "repo": "fusio",
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "Deepfence ThreatMapper",
-          "description": null,
+          "description": "deepfence/ThreatMapper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,11 +132,11 @@
             "id": 95614931,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:51:44Z",
+            "last_commit": "2026-10-02T17:00:38Z",
             "open_issues": 646,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 12039,
+            "stars": 12040,
             "topics": [
               "api",
               "bm25",
@@ -169,11 +169,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T19:53:49Z",
-            "open_issues": 776,
+            "last_commit": "2026-10-02T21:10:00Z",
+            "open_issues": 797,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16858,
+            "stars": 16859,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -215,7 +215,7 @@
             "open_issues": 44,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17894,
+            "stars": 17902,
             "topics": [
               "elasticsearch",
               "go",
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": "OpenBB Terminal",
-          "description": null,
+          "description": "openbq-org/OpenBB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,10 +242,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T04:55:27Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "openbq-org",
             "repo": "OpenBB",
-            "stars": 73740,
+            "stars": 73768,
             "topics": [
               "ai",
               "crypto",
@@ -276,8 +276,8 @@
             "id": 9342529,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:46:51Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-02T18:12:57Z",
+            "open_issues": 336,
             "owner": "crate",
             "repo": "crate",
             "stars": 4442,
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:52:37.713Z",
+    "last_updated": "2026-10-03T05:01:38.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
@@ -323,7 +323,7 @@
       "open_issues": 148,
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19725,
+      "stars": 19730,
       "topics": [
         "alternatives",
         "awesome",

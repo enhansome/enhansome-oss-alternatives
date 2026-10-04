@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T08:15:37Z",
-            "open_issues": 254,
+            "open_issues": 255,
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17187,
+            "stars": 17188,
             "topics": [
               "ai-gateway",
               "api",
@@ -95,7 +95,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5322,
+            "stars": 5323,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -136,7 +136,7 @@
             "open_issues": 646,
             "owner": "manticoresoftware",
             "repo": "manticoresearch",
-            "stars": 12040,
+            "stars": 12039,
             "topics": [
               "api",
               "bm25",
@@ -170,10 +170,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T21:10:00Z",
-            "open_issues": 798,
+            "open_issues": 799,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16859,
+            "stars": 16862,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -215,7 +215,7 @@
             "open_issues": 44,
             "owner": "zincsearch",
             "repo": "zincsearch",
-            "stars": 17902,
+            "stars": 17909,
             "topics": [
               "elasticsearch",
               "go",
@@ -245,7 +245,7 @@
             "open_issues": 85,
             "owner": "openbq-org",
             "repo": "OpenBB",
-            "stars": 73768,
+            "stars": 73823,
             "topics": [
               "ai",
               "crypto",
@@ -276,11 +276,11 @@
             "id": 9342529,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:12:57Z",
-            "open_issues": 336,
+            "last_commit": "2026-10-03T08:46:23Z",
+            "open_issues": 335,
             "owner": "crate",
             "repo": "crate",
-            "stars": 4442,
+            "stars": 4443,
             "topics": [
               "analytics",
               "big-data",
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:27:44.269Z",
+    "last_updated": "2026-10-04T06:02:55.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
@@ -323,7 +323,7 @@
       "open_issues": 148,
       "owner": "RunaCapital",
       "repo": "awesome-oss-alternatives",
-      "stars": 19730,
+      "stars": 19732,
       "topics": [
         "alternatives",
         "awesome",
